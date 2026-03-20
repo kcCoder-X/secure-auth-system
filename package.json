@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/kcCoder-X/secure-auth-system#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.7",
     "dotenv": "^17.3.1",
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.3.0",
